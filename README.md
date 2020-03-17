@@ -144,3 +144,8 @@ Once all prerequisites have been met, you can use the following commands to buil
 Once completed, the SonarQube plugin jar can be found in the target directory. The
 plugin can be installed by copying the plugin JAR to your SonarQube extensions/plugins
 directory, and restarting SonarQube.
+
+# Licensing
+
+See [LICENSE.TXT](LICENSE.TXT)
+
